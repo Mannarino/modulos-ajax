@@ -1,0 +1,56 @@
+
+body{
+
+font-family: 'Titillium Web', sans-serif;
+
+}
+.navbar-inverse{
+	margin-bottom: 1px;
+}
+#sugerencias{
+	height: 300px;
+	text-align: center;
+	margin-top: 30px;
+
+	
+
+}
+#letras{
+	margin-top: 60px;
+}
+
+#footer{
+	margin-top: 60px;
+	border-top: 1px solid #999;
+	padding: 10px;
+}
+#carusel{
+	margin-top: 53px;
+	background: black;
+	padding-left: 0px;
+	padding-right: 0px;	
+}
+#mostrar{
+	
+	border: 1px solid #aeaeae;
+	padding: 10px;
+  min-height: 250px;
+  border-radius: 5px;
+   
+
+}
+
+#comprobando{
+	float: left;
+padding-left: 16px;
+font-family: 'Poiret One', cursive;
+display: none;
+width: 100px;
+	height: 30px;
+}
+#enviar{
+	margin-top: 30px;
+}
+p{
+	font-size: 16px;
+}
